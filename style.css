@@ -1,0 +1,149 @@
+    .ml-auto {
+        margin-left: auto!important;
+    }
+    
+    #nav-bar {
+        position: sticky;
+        top: 0;
+        z-index: 10;
+        background-color: #FFFBF0;
+    }
+    
+    .navbar-logo img {
+        height: 30px;
+        padding-left: 10px;
+    }
+    
+    .navbar-ul li {
+        padding-left: 30px;
+    }
+    
+    .navbar-ul li a {
+        color: #3C3C3C!important;
+        font-weight: 600;
+    }
+    
+    #home {
+        background-color: #FFFBF0;
+        padding: 50px;
+    }
+    
+    h1 {
+        font-family: 'Bebas Neue';
+        font-size: 100px;
+    }
+    
+    .prormo-title {
+        color: #FABE4C;
+    }
+    
+    .prormo-title2 {
+        color: #363958;
+    }
+    
+    p {
+        font-family: 'Roboto';
+    }
+    
+    .p {
+        font-size: 25px;
+    }
+    
+    .shopingcart-btn img {
+        width: 35px!important;
+    }
+    
+    .shopingcart-btn {
+        background-color: #A4BC46;
+        border-radius: 10px;
+        border: none;
+        padding: 0 12px;
+    }
+    
+    .text-color {
+        color: white;
+    }
+    
+    .img1 img {
+        width: 90%;
+    }
+    
+    #nav-bar {
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-top: 10px;
+    }
+    
+    #home {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    
+    #products {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    
+    .imgs {
+        background-color: #F1F1F1;
+        border-radius: 15px;
+        margin: 10px;
+    }
+    
+    .imgc {
+        width: 75%!important;
+    }
+    
+    .imgcn {
+        width: 83%;
+    }
+    
+    .cardf {
+        margin: 20px;
+    }
+    
+    .card {
+        border-radius: 15px;
+    }
+    
+    .imgcnm {
+        width: 74%;
+    }
+    
+    #about {
+        margin-top: 100px!important;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    
+    .imgr img {
+        width: 15%;
+        display: inline-flex;
+    }
+    
+    .one,
+    .two,
+    .thr {
+        border-radius: 15px;
+        padding: 5px;
+        margin-top: 20px;
+        padding-left: 15px;
+        margin-left: 20px;
+        display: inline-flex;
+    }
+    
+    .abw {
+        padding-top: 15px;
+        padding-left: 10px;
+    }
+    
+    .imgl {
+        width: 120%;
+        margin-top: 15px;
+    }
+    
+    #contact {
+        margin: 30px!important;
+        background-color: #d8e2dc;
+        border-radius: 15px;
+    }
